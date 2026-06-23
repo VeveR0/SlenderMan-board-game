@@ -39,8 +39,8 @@ Player loses: if they escape without collecting all the notes or are killed by S
 
 ## Game States
 
-- The map turns `green` when the player wins.
-- The map turns `red` when the player loses.
+- The map turns `green` when the player wins (the player collects all the notes and escapes)
+- The map turns `red` when the player loses (the player gets killed by Slender Man or escapes, but doesn't collect all the notes)
 
 <img width="420" height="210" alt="image" src="https://github.com/user-attachments/assets/d4f2b137-e970-44bd-a0e7-e1252fa8c98d" />
 <img width="420" height="210" alt="image" src="https://github.com/user-attachments/assets/22a06c50-5398-48fa-9364-a20b35758574" />
